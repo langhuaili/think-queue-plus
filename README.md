@@ -1,6 +1,6 @@
 # think-queue for ThinkPHP6
 
-## 安装
+## 安装1
 
 > composer require topthink/think-queue
 
